@@ -1,5 +1,4 @@
-
-# Lab 1 Version Control Practice with Git and GitHub
+ #Lab 1 Version Control Practice with Git and GitHub
 
 **Directions**
 This lab consist of 5 deliverables that will require you to fulfill a series of steps.  It might be helpful to print off this document as you fulfill the 5 deliverables.  
@@ -60,9 +59,6 @@ Continuing from the previous deliverable
 ## Deliverable 5
 Your project folder will need to be submitted to the assigned GitHub repository provided to you by the instructor. In Sakai, you will need to submit the link to your repository by the due date and time listed in the write-up. Make sure you receive confirmation from Sakai that your assignment has been submitted. 
 
-Using a h1 heading syntax in markdown - Provide a title with the text "Full-stack Nodejs Boxing Stat App"
-Using a paragraph syntax in markdown - Provide a brief description with text below
-"This application will display boxing data on current and previous boxing professionals. Lab 1 is focused on project set-up and version control. Lab 2 focuses on working with Express framework the user to Create, Retrieve, Update and Delete Boxing data.
 
 
 
